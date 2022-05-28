@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return [
-        'test' => "Welcome to Transave Nigeria System Api Live APP..."
+        'test' => "Welcome to Transave Nigeria System Api Live APP......"
     ];
 });
 
